@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: HandTrackingModule
+Version: 0.2
+Summary: This is a simplified version to do hand tracking from mediapipe
+Home-page: https://github.com/Harshbansal8705/HandTrackingModule
+Download-URL: https://github.com/Harshbansal8705/HandTrackingModule/archive/refs/tags/0.1.tar.gz
+Author: Harsh Bansal
+License: MIT
+Keywords: hand,track,detect
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: mediapipe
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+
